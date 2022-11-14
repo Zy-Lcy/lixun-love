@@ -8,7 +8,7 @@
 
 
 ## 快速体验
-- 演示地址：https://ys.zyw.one/lixun/www
+- 演示地址：https://zy-lcy.github.io/Zy_Lcy-lixun-love/
 
 ## 多端界面截图
 <img src="https://github.com/ALACG/Zy_Lcy-lixun-love/blob/main/%E5%A4%9A%E7%AB%AF%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE.png" alt="预览图">
