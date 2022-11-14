@@ -17,6 +17,5 @@
 示例：http://你的域名/
 
 ## 更多支持
-- 交流QQ-1群：128215049
-- 交流QQ-2群：849844806（推荐）
-- [Telegram](https://t.me/acgshop)
+- 初一资源网：https://www.zyw.one/
+- [Telegram](https://t.me/Zy_Lcy)
